@@ -1,0 +1,18 @@
+Fixed combo output test started.
+Combo: Z + Mouse left  (×ó¼ü / ½µµ÷)
+Hold Enter to hold the combo.
+Press Esc to exit.
+Enter DOWN
+Mouse left DOWN
+Z DOWN
+Enter UP
+Mouse left UP
+Z UP
+Enter DOWN
+Mouse left DOWN
+Z DOWN
+Esc pressed. Releasing all and exiting.
+(Enter was still held down)
+Mouse left UP (released on exit)
+Z UP (released on exit)
+Listener stopped.

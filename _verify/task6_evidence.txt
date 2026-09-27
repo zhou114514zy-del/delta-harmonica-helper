@@ -1,0 +1,36 @@
+﻿TASK 6 EVIDENCE - Enter -> fixed Z
+captured: 2026-09-22 22:12:26
+
+=== program stdout of the final test run (_verify\task6_log.txt) ===
+Fixed Z output test started.
+Hold Enter to hold Z.
+Press Esc to exit.
+Enter DOWN
+Z DOWN
+Enter UP
+Z UP
+Enter DOWN
+Z DOWN
+Enter UP
+Z UP
+Enter DOWN
+Z DOWN
+Enter UP
+Z UP
+Enter DOWN
+Z DOWN
+Enter UP
+Z UP
+Enter DOWN
+Z DOWN
+Enter UP
+Z UP
+Enter DOWN
+Z DOWN
+Esc pressed. Releasing Z and exiting.
+(Enter was still held down)
+Z UP (released on exit)
+Listener stopped.
+
+=== pure logic test output ===
+13/13 PASS (see task6_logic.py; calls=['press:z'] for 30 auto-repeat key-downs)

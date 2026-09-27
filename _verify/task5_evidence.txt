@@ -1,0 +1,66 @@
+﻿TASK 5 EVIDENCE - selective Enter hook
+captured: 2026-09-22 22:01:55
+
+=== clean retest #2 program stdout (_verify\task5_clean_log.txt) ===
+Selective Enter hook test started.
+Press Enter to test.
+Press Esc to exit.
+Enter DOWN
+Enter UP
+Enter DOWN
+Enter UP
+Enter DOWN
+Enter UP
+Enter DOWN
+Enter UP
+Enter DOWN
+Enter UP
+Enter DOWN
+Enter UP
+Enter DOWN
+Enter UP
+Enter DOWN
+Enter UP
+Esc pressed. Exiting.
+Listener stopped.
+
+=== raw vkCodes seen by the hook (_verify\task5_clean_vk.txt) ===
+raw vkCode down sequence:
+  162 (0xA2) = ?
+  65 (0x41) = A
+  46 (0x2E) = Delete
+  13 (0x0D) = Enter
+  162 (0xA2) = ?
+  65 (0x41) = A
+  46 (0x2E) = Delete
+  65 (0x41) = A
+  90 (0x5A) = Z
+  32 (0x20) = Space
+  9 (0x09) = Tab
+  162 (0xA2) = ?
+  65 (0x41) = A
+  46 (0x2E) = Delete
+  13 (0x0D) = Enter
+  162 (0xA2) = ?
+  65 (0x41) = A
+  46 (0x2E) = Delete
+  13 (0x0D) = Enter
+  13 (0x0D) = Enter
+  13 (0x0D) = Enter
+  162 (0xA2) = ?
+  65 (0x41) = A
+  46 (0x2E) = Delete
+  65 (0x41) = A
+  13 (0x0D) = Enter
+  90 (0x5A) = Z
+  13 (0x0D) = Enter
+  32 (0x20) = Space
+  13 (0x0D) = Enter
+  27 (0x1B) = Esc
+
+=== test D: idle + after-exit (_verify\task5_d_log.txt) ===
+Selective Enter hook test started.
+Press Enter to test.
+Press Esc to exit.
+Esc pressed. Exiting.
+Listener stopped.

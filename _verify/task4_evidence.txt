@@ -1,0 +1,51 @@
+﻿Task 4 evidence (captured 2026-09-22 21:33:15)
+
+================ log_C.txt ================
+Global Enter hook test started.
+Press Enter to test.
+Press Esc to exit.
+Enter DOWN
+Enter UP
+Enter DOWN
+Enter UP
+Enter DOWN
+Enter UP
+Esc pressed. Exiting.
+Listener stopped.
+
+================ log_D.txt ================
+Global Enter hook test started.
+Press Enter to test.
+Press Esc to exit.
+Enter DOWN
+Enter UP
+Esc pressed. Exiting.
+Listener stopped.
+
+================ log_B2.txt ================
+Global Enter hook test started.
+Press Enter to test.
+Press Esc to exit.
+Enter DOWN
+Enter UP
+Enter DOWN
+Enter UP
+Enter DOWN
+Enter UP
+Esc pressed. Exiting.
+Listener stopped.
+
+================ log_rawcount.txt ================
+Esc pressed. Exiting.
+
+ԭʼ Enter �����¼��� (raw key-down): 2
+ԭʼ Enter �ɿ��¼��� (raw key-up)  : 2
+raw down ʱ���: [1.941, 4.668]
+
+ȥ�غ��߼��¼�: 4
+  DOWN @ 1.941s
+  UP @ 3.158s
+  DOWN @ 4.668s
+  UP @ 5.679s
+
+DOWN ����=2  UP ����=2

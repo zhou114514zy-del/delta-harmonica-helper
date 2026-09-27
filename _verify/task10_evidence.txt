@@ -1,0 +1,7 @@
+﻿TASK 10 EVIDENCE - playback executor -> real input
+captured: 2026-09-22 22:50:20
+
+=== playback.py diff vs Task 9 (确认 Task 10 未改) ===
+playback.py length = 6301  (Task 9 报告里已说明：删掉未使用的 typing.Set 导入，6306->6301)
+
+=== input.py changes made in Task 10 ===

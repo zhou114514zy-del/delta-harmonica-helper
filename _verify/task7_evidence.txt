@@ -1,0 +1,93 @@
+﻿TASK 7 EVIDENCE - keyboard note + mouse tuning combos
+captured: 2026-09-22 22:28:55
+
+================ MODE: left ================
+--- program output (t7log_left.txt) ---
+Fixed combo output test started.
+Combo: Z + Mouse left  (��� / ����)
+Hold Enter to hold the combo.
+Press Esc to exit.
+Enter DOWN
+Mouse left DOWN
+Z DOWN
+Enter UP
+Mouse left UP
+Z UP
+Enter DOWN
+Mouse left DOWN
+Z DOWN
+Esc pressed. Releasing all and exiting.
+(Enter was still held down)
+Mouse left UP (released on exit)
+Z UP (released on exit)
+Listener stopped.
+--- sink window log (t7win_left.txt) ---
+window-ready
+KeyDown:Z
+KeyUp:Z
+KeyDown:Z
+KeyDown:Escape
+KeyUp:Z
+KeyUp:Escape
+
+================ MODE: middle ================
+--- program output (t7log_middle.txt) ---
+Fixed combo output test started.
+Combo: Z + Mouse middle  (�м� / ����)
+Hold Enter to hold the combo.
+Press Esc to exit.
+Enter DOWN
+Mouse middle DOWN
+Z DOWN
+Enter UP
+Mouse middle UP
+Z UP
+Enter DOWN
+Mouse middle DOWN
+Z DOWN
+Esc pressed. Releasing all and exiting.
+(Enter was still held down)
+Mouse middle UP (released on exit)
+Z UP (released on exit)
+Listener stopped.
+--- sink window log (t7win_middle.txt) ---
+window-ready
+KeyDown:Z
+KeyUp:Z
+KeyDown:Z
+KeyDown:Escape
+KeyUp:Z
+KeyUp:Escape
+
+================ MODE: right ================
+--- program output (t7log_right.txt) ---
+Fixed combo output test started.
+Combo: Z + Mouse right  (�Ҽ� / ����)
+Hold Enter to hold the combo.
+Press Esc to exit.
+Enter DOWN
+Mouse right DOWN
+Z DOWN
+Enter UP
+Mouse right UP
+Z UP
+Enter DOWN
+Mouse right DOWN
+Z DOWN
+Esc pressed. Releasing all and exiting.
+(Enter was still held down)
+Mouse right UP (released on exit)
+Z UP (released on exit)
+Listener stopped.
+--- sink window log (t7win_right.txt) ---
+window-ready
+KeyDown:ControlKey
+KeyDown:U
+KeyUp:U
+KeyUp:ControlKey
+KeyDown:Z
+KeyUp:Z
+KeyDown:Z
+KeyDown:Escape
+KeyUp:Z
+KeyUp:Escape

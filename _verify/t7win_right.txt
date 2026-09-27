@@ -1,0 +1,11 @@
+﻿window-ready
+KeyDown:ControlKey
+KeyDown:U
+KeyUp:U
+KeyUp:ControlKey
+KeyDown:Z
+KeyUp:Z
+KeyDown:Z
+KeyDown:Escape
+KeyUp:Z
+KeyUp:Escape

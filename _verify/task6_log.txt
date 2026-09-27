@@ -1,0 +1,29 @@
+Fixed Z output test started.
+Hold Enter to hold Z.
+Press Esc to exit.
+Enter DOWN
+Z DOWN
+Enter UP
+Z UP
+Enter DOWN
+Z DOWN
+Enter UP
+Z UP
+Enter DOWN
+Z DOWN
+Enter UP
+Z UP
+Enter DOWN
+Z DOWN
+Enter UP
+Z UP
+Enter DOWN
+Z DOWN
+Enter UP
+Z UP
+Enter DOWN
+Z DOWN
+Esc pressed. Releasing Z and exiting.
+(Enter was still held down)
+Z UP (released on exit)
+Listener stopped.

@@ -1,0 +1,27 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20260922213301
+Username: Z\16966
+RunAs User: Z\16966
+Configuration Name: 
+Machine: Z (Microsoft Windows NT 10.0.26200.0)
+Host Application: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -ExecutionPolicy Bypass -File _verify\test_a_console.ps1
+Process ID: 33216
+PSVersion: 5.1.26100.9444
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.9444
+BuildVersion: 10.0.26100.9444
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+OUTER: activate result -> consoleHwnd=330046 foreground=330046 ok=True fgClass=ConsoleWindowClass
+[OUTER] sending ENTER down/up into the console
+[OUTER] sending ENTER down/up again
+[OUTER] sending ESC to exit
+[OUTER] python HasExited=True
+**********************
+Windows PowerShell transcript end
+End time: 20260922213306
+**********************
